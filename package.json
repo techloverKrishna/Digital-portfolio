@@ -2,7 +2,7 @@
   "name": "digital-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://techloverKrishna.github.io",
+  "homepage": "https://techloverkrishna.github.io/Digital-portfolio",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.0",
