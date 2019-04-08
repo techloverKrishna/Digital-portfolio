@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://teckloverKrishna.github.io/",
     "name": "Krishna Bhamare",
-    "role": "Frontend Developer and Data Scientist",
+    "role": "Frontend Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": `Working on various framework like Angular 2+, ReactJS, React Native.`,
     "socialLinks":[
         {
             "name":"linkedin",
@@ -22,42 +22,45 @@ let resumeData = {
             "className":"fa fa-twitter"
         }
     ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
+    "aboutme":`Currently Working in Greytip Software Pvt LTD in Bengaluru, as Front end Developer.
+                Completed Bachelor Of Engineering in Pune University Maharashtra, India.
+                I Have Hands on Experience on Front end Web-Development And Mobile App Development.
+                Habits to Learn new Development Frameworks and Technologies.`,
+    "address":" Koramangala, Bengaluru India",
     "website":"https://techloverKrishna.github.io",
     "education":[
         {
-            "UniversityName":"The LNM Insitute of Information Technology",
-            "specialization":"Some specialization",
-            "MonthOfPassing":"Aug",
-            "YearOfPassing":"2020",
+            "UniversityName":"Pune University, Maharashtra, India",
+            "specialization":"B.E (Electronics And Telecommunications)",
+            "MonthOfPassing":"June",
+            "YearOfPassing":"2016",
             "Achievements":"Some Achievements"
         },
         {
-            "UniversityName":"Some University",
-            "specialization":"Some specialization",
-            "MonthOfPassing":"Jan",
-            "YearOfPassing":"2018",
+            "UniversityName":"H.S.C in State Board, Maharashtra, India",
+            "specialization":"Science",
+            "MonthOfPassing":"May",
+            "YearOfPassing":"2012",
             "Achievements":"Some Achievements"
         }
     ],
     "work":[
         {
-            "CompanyName":"Some Company",
-            "specialization":"Some specialization",
-            "MonthOfLeaving":"Jan",
-            "YearOfLeaving":"2018",
+            "CompanyName":"Greytip Software Pvt LTD",
+            "specialization":"Front-end Developer",
+            "MonthOfLeaving":"March-2017 -",
+            "YearOfLeaving":"Present",
             "Achievements":"Some Achievements"
         },
         {
-            "CompanyName":"Some Company",
-            "specialization":"Some specialization",
-            "MonthOfLeaving":"Jan",
-            "YearOfLeaving":"2018",
+            "CompanyName":"BridgeLabz LLP Mumbai",
+            "specialization":"Product Engineer",
+            "MonthOfLeaving":"Dec-2016 - ",
+            "YearOfLeaving":"March-2017",
             "Achievements":"Some Achievements"
         }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"FrameWorks and Libraries Used For App Development",
     "skills":[
         {
             "skillname":"HTML5"
@@ -101,6 +104,6 @@ let resumeData = {
             "name":"Some technical guy"
         }
     ]
-}
+};
 
-export default resumeData
+export default resumeData;
